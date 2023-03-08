@@ -1,1 +1,1 @@
- Task 0.Where Am i ? 
+Display current directory contents in a long format
