@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -pd .[^.] [0-9a-zA-Z]* | sort -d -k1.1,1.1 -k1.2n -k1.3
+ls -amvp
