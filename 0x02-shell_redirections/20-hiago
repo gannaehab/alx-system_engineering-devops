@@ -1,0 +1,2 @@
+#!/bin/bash
+echo -n "Enter text: "; read input; echo "Result: $(echo "$input" | tr -d 'cC')"
